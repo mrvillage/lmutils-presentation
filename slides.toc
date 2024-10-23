@@ -1,0 +1,10 @@
+\beamer@sectionintoc {1}{RARity Case Study}{3}{0}{1}
+\beamer@sectionintoc {2}{Welcome to lmutils}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{Getting Started}{8}{0}{2}
+\beamer@subsectionintoc {2}{2}{Working with Files}{11}{0}{2}
+\beamer@subsectionintoc {2}{3}{Configuration}{13}{0}{2}
+\beamer@subsectionintoc {2}{4}{Matrix Manipulation}{14}{0}{2}
+\beamer@subsectionintoc {2}{5}{Statistical Functions}{15}{0}{2}
+\beamer@subsectionintoc {2}{6}{Analysis Functions}{16}{0}{2}
+\beamer@sectionintoc {3}{plots.r}{18}{0}{3}
+\beamer@sectionintoc {4}{Conclusion}{24}{0}{4}
