@@ -219,7 +219,7 @@ df <- lmutils::calculate_r2(list("genos1.rkyv", "genos2.rkyv",
 \end{frame}
 
 \begin{frame}[fragile]{\texttt{column\_p\_values}}
-  The second kind of primary analysis is calculating the $p$-values of the each pair of data and outcome columns. In some testing it can do a 20 thousand column block in about 2-3 seconds.
+  The second kind of primary analysis is calculating the $p$-values of each pair of data and outcome columns. In some testing it can do a 20 thousand column block in about 2-3 seconds.
   \begin{verbatim}
 df <- lmutils::column_p_values(list("genos1.rkyv",
 "genos2.rkyv", "genos3.rkyv"), "phenos.rkyv")
